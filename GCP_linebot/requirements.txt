@@ -1,0 +1,19 @@
+# 原有依賴
+langchain
+langchain_community
+faiss-cpu
+pymupdf
+rank_bm25
+mistralai
+google-cloud-storage
+flask
+line-bot-sdk
+pandas
+
+# 新增依賴
+langchain-huggingface 
+typing-extensions
+sentence_transformers
+pydantic
+torch
+
