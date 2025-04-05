@@ -21,8 +21,8 @@ except ImportError:
     os.system("pip install openpyxl")
 
 # ✅ 設定檔案路徑
-EXCEL_FILE = "/Users/yun/Downloads/tariff_data_2025/trade_tariff_database_202500.xlsx"
-PDF_FILES = ["/Users/yun/Downloads/td-codes.pdf", "/Users/yun/Downloads/finalCopy.pdf", "/Users/yun/Downloads/td-fields.pdf"]
+EXCEL_FILE = "trade_tariff_database_202500.xlsx"
+PDF_FILES = ["td-codes.pdf", "finalCopy.pdf", "td-fields.pdf"]
 JSON_PATH = "trade_tariff_database.json"
 CONFIG_PATH = "config.json"
 
